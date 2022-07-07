@@ -1,6 +1,6 @@
 import React from "react";
 
-import PickImage from "./screens/Camera.js";
+import PickImage from "Camera.js";
 
 export default class App extends React.Component {
   render() {
